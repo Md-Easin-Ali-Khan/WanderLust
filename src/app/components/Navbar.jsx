@@ -16,7 +16,7 @@ const Navbar = () => {
     const leftNavItems = [
         { name: 'Home', href: '/' },
         { name: 'Destinations', href: '/destinations' },
-        { name: 'My Bookings', href: '/my-bookings' },
+        { name: 'My Bookings', href: '/add-destination' },
         { name: 'Admin', href: '/admin' },
     ];
 
